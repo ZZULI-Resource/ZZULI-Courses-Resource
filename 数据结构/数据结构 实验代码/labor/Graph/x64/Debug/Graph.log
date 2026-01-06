@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\book\labor\Graph\源.cpp(139): warning C4172: 返回局部变量或临时变量的地址: data
+E:\book\labor\Graph\源.cpp(233): warning C4715: “NextNeigor”: 不是所有的控件路径都返回值
+  Graph.vcxproj -> E:\book\labor\x64\Debug\Graph.exe

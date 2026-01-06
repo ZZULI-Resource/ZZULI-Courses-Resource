@@ -1,0 +1,45 @@
+第一章掌握
+1. 容器的概念：服务器
+2. Tomcat是一种容器（服务器）；默认的测试地址。
+
+第二章掌握
+1.html的文件扩展名
+2.静态页面、动态页面，谁的运行需要服务器
+3. CSS、JavaScript都是什么技术，用于做什么
+4. 会写html文档，掌握其基本结构，掌握基本标签的用法（表格、表单）
+
+第三章掌握
+1.两个JSP指令：（1）指令作用（2）include指令要会用（参考实验题）
+2. 会写表单：文本框、选择框，怎么在接收文本框、选择框提交的参数
+3. 四大作用域，范围大小和意义
+4. request的方法（getParameter、setAttribute、getAttribute的用法）
+5. JAVA类型转换的系列方法：XXX.parseXXX()，例如Double.parseDouble()，Integer.parseInt()
+
+第四章掌握
+1. JDBC是什么，（连接对象、操作对象、结果集对象所对应的）常用类和接口
+2. 连接数据库的步骤
+
+第五章掌握
+1. JB的设计规则
+2. JB动作标签（三种的用法）
+3. Jsp+JB写程序
+
+第六章掌握
+1. Servlet生命周期各方法的作用
+2. Servlet与JSP之间的跳转
+3. Servlet到JSP的两种跳转方式
+
+第七章掌握
+1. MVC的含义
+2. JSP+Servlet+JB写程序
+
+考试中：
+1.页面只写<body></body>部分即可
+2. JB中有多个属性，只写一个属性的get和 set方法，其余属性的get和set方法可省略，只写“与XXX的类似”
+例如：有三个属性int a,b,c，可以写
+public void setA（）{……}
+public int getA(){……}
+b，c的set和get方法与a类似，在此省略
+……（继续写其它代码）
+
+
